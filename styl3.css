@@ -25,4 +25,5 @@ body {
 }
 .footer {
     background-color: bisque;
+    overflow: auto;
 }
