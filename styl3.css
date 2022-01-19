@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    background-color: blueviolet;
+}
+.item {
+    flex-basis: 50%;
+}
+.a {
+    background-color: burlywood;
+}
+.b {
+    margin-top: -20px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+}
